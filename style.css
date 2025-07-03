@@ -46,6 +46,11 @@ nav{
     list-style: none; /* Removes the bullet points*/
     font-size: 1.5rem;
 }
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
 
 a {
     color: black;
